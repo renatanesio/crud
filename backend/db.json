@@ -2,22 +2,22 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta",
-      "price": 2.5
+      "name": "Borracha do Mickey",
+      "price": "2.35"
     },
     {
-      "id": 2,
-      "name": "Borracha",
-      "price": 1.25
+      "name": "Moletom do Mickey",
+      "price": "58.08",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Régua",
-      "price": 5.85
+      "name": "Lápis preto HB do Mickey - 48 unidades",
+      "price": "79.18",
+      "id": 3
     },
     {
-      "name": "Samsung S20",
-      "price": "4999.59",
+      "name": "Apontador do Mickey",
+      "price": "4.50",
       "id": 4
     }
   ]
